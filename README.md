@@ -1,0 +1,22 @@
+# My dependencies:
+- pavucontrol
+- xdg-desktop-portal-hyprland
+- wl-clipboard
+- nautilus
+- kitty
+- rofi
+- waybar
+- hyprpaper
+- swaync
+- hypridle
+- nm-applet
+- blueman-applet
+- clipse
+- hyprspace (optional - inactive by default)
+- hyprshot
+- hyprlock
+- gnome-system-monitor
+- brightnessctl
+- playerctl
+- font-awesome
+- noto-fonts-cjk

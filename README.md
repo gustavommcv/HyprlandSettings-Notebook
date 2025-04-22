@@ -20,3 +20,4 @@
 - playerctl
 - font-awesome
 - noto-fonts-cjk
+-  adi1090x rofi
